@@ -1,2 +1,3 @@
 # website
-siteCV
+
+Ceci est le répertoire du site personnel de Jérémie Blanc.
