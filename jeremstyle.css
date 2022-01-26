@@ -71,6 +71,7 @@ body {
   display: flex;
   flex-direction: row-reverse;
   justify-content: right;
+  min-height: 75vh;
 }
 
 .deux .premtext {
@@ -157,14 +158,13 @@ body {
   .deux {
     flex-direction: column;
     width: 100%;
-    display: inline-block;
+    min-height: 260px;
     justify-content: center;
     align-items: center;
     margin-top: 10%;
   }
   .deux .premtext {
     width: 80%;
-    margin-left: 10%;
   }
   .deux .premtext h1 {
     font-size: 20px;
